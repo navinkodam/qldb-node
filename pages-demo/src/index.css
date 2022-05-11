@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components  {
+    .tbl-cell-pt {
+        @apply p-3 text-xs md:text-sm text-gray-700 whitespace-nowrap;
+    }
+}

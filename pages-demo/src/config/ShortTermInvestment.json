@@ -1,0 +1,128 @@
+{
+    "id" : 11220,
+    "component" : "ShortTermInvestment",
+    "style" : {
+        "backgroundColor" : "lightblue"
+    },
+    "children" : [
+        {
+            "id" : "C1221",
+            "name" : "Stock ",
+            "visibility": true, 
+            "style" : {
+                "width" : "10%",
+                "padding" : "12px",
+                "fontSize" : "14px",
+                "fontWeight" : 600,
+                "letterSpacing" : "0.025em",
+                "textAlign" : "center",
+                "lineHeight" : "20px",
+                "backgroundColor" : "lightgreen"   
+            }
+
+        },
+        {
+            "id" : "C1222",
+            "name" : "Stock Category",
+            "visibility": true, 
+            "style" : {
+                "width" : "10%",
+                "padding" : "12px",
+                "fontSize" : "14px",
+                "fontWeight" : 600,
+                "letterSpacing" : "0.025em",
+                "textAlign" : "center",
+                "lineHeight" : "20px",
+                "backgroundColor" : "lightgreen"
+    
+            }
+
+        },
+        {
+            "id" : "C1223",
+            "name" : "CMP",
+            "visibility": true, 
+            "style" : {
+                "width" : "10%",
+                "padding" : "12px",
+                "fontSize" : "14px",
+                "fontWeight" : 600,
+                "letterSpacing" : "0.025em",
+                "textAlign" : "center",
+                "lineHeight" : "20px",
+                "backgroundColor" : "lightgreen"
+    
+            }
+
+        },
+        {
+            "id" : "C1224",
+            "name" : "Buy/Sell",
+            "visibility": true, 
+            "style" : {
+                "width" : "10%",
+                "padding" : "12px",
+                "fontSize" : "14px",
+                "fontWeight" : 600,
+                "letterSpacing" : "0.025em",
+                "textAlign" : "center",
+                "lineHeight" : "20px",
+                "backgroundColor" : "lightgreen"
+    
+            }
+
+        },
+        {
+            "id" : "C1225",
+            "name" : "Price",
+            "visibility": true, 
+            "style" : {
+                "width" : "10%",
+                "padding" : "12px",
+                "fontSize" : "14px",
+                "fontWeight" : 600,
+                "letterSpacing" : "0.025em",
+                "textAlign" : "center",
+                "lineHeight" : "20px",
+                "backgroundColor" : "lightgreen"
+    
+            }
+
+        },
+        {
+            "id" : "C1226",
+            "name" : "Target",
+            "visibility": true, 
+            "style" : {
+                "width" : "10%",
+                "padding" : "12px",
+                "fontSize" : "14px",
+                "fontWeight" : 600,
+                "letterSpacing" : "0.025em",
+                "textAlign" : "center",
+                "lineHeight" : "20px",
+                "backgroundColor" : "lightgreen"
+    
+            }
+
+        },
+        {
+            "id" : "C1227",
+            "name" : "Disclosure",
+            "visibility": true, 
+            "style" : {
+                "width" : "10%",
+                "padding" : "12px",
+                "fontSize" : "14px",
+                "fontWeight" : 600,
+                "letterSpacing" : "0.025em",
+                "textAlign" : "center",
+                "lineHeight" : "20px",
+                "backgroundColor" : "lightgreen"
+    
+            }
+
+        }
+    ]
+
+}
